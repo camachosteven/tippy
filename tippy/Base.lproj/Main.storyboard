@@ -8,7 +8,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--View Controller-->
+        <!--Tip Calculator-->
         <scene sceneID="tne-QT-ifu">
             <objects>
                 <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="tippy" customModuleProvider="target" sceneMemberID="viewController">
@@ -176,7 +176,7 @@
                             <outletCollection property="gestureRecognizers" destination="0aJ-iw-2gZ" appends="YES" id="IuJ-95-dZs"/>
                         </connections>
                     </view>
-                    <navigationItem key="navigationItem" id="ULV-Or-Ixc"/>
+                    <navigationItem key="navigationItem" title="Tip Calculator" id="ULV-Or-Ixc"/>
                     <connections>
                         <outlet property="billField" destination="of8-6N-vgO" id="e2H-Te-3RG"/>
                         <outlet property="peopleField" destination="nge-cg-bms" id="PIx-bc-tH8"/>
