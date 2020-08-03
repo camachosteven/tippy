@@ -28,26 +28,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/7EvLSIDA7y.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Recordit] (https://recordit.co).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The main challenge was getting the UI of the app to be compatible in more than just my iPhone XR. Having your design stay consistent throughout the various sizes is difficult because of the different aspect ratios. I learned the basic concepts on constraints and how to make them auto layout the UI. Having background in programming in any environments and languages, the coding part of the app was very simple for me. 
 
-## License
+Overall, I enjoyed designing this app from scratch and helped me learn some of the basics of IOS development proactively rather than just watching a video without making anything. I believe I am perfect for this course because I want to create apps through freelancing and for local businesses. This course teaches you by developing many applications, which isn't very common and I love that form. 
 
-    Copyright [yyyy] [name of copyright owner]
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
