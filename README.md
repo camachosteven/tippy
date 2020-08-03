@@ -1,4 +1,52 @@
-# Tip Calculator
-For this application, I decided to add a couple of features for both user experience and multi phone compatibility. 
-I added a per person slider where the user adjusts to determine how much the bill would be per person based on the group of people. 
-I also added some constraints so that the app can be viewed on the iPhone 11, iPhone 11 Pro, iPhone SE 2nd gen, and iPhone 4s.
+# Pre-work - *Tippy*
+
+**Tippy** is a tip calculator application for iOS.
+
+Submitted by: **Steven Camacho**
+
+Time spent: **5** hours spent in total
+
+## User Stories
+
+The following **required** functionality is complete:
+
+* [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+
+The following **optional** features are implemented:
+* [ ] Settings page to change the default tip percentage.
+* [ ] UI animations
+* [ ] Remembering the bill amount across app restarts (if <10mins)
+* [ ] Using locale-specific currency and currency thousands separators.
+* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+
+The following **additional** features are implemented:
+- [X] Added constraints to make app usable in iPhone 11, iPhone 11 Pro, iPhone 8, 7, 6 Plus, iPhone 8, 7, 6, iPhone SE (2nd generation)
+- [X] Added a 'Number of People' Option where user can calculate how much bill is per person if bill is split among multiple people (from 1-10 people)
+
+## Video Walkthrough 
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+## Notes
+
+Describe any challenges encountered while building the app.
+
+## License
+
+    Copyright [yyyy] [name of copyright owner]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
