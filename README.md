@@ -22,6 +22,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 - [X] Added constraints to make app usable in iPhone 11, iPhone 11 Pro, iPhone 8, 7, 6 Plus, iPhone 8, 7, 6, iPhone SE (2nd generation)
 - [X] Added a 'Number of People' Option where user can calculate how much bill is per person if bill is split among multiple people (from 1-10 people)
+- [X] Added a high-quality app icon
 
 ## Video Walkthrough 
 
